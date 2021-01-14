@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-react-native-ash",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  },
+  "dependencies": {
+    "@react-native-community/eslint-config": "2.0.0"
+  }
+}
